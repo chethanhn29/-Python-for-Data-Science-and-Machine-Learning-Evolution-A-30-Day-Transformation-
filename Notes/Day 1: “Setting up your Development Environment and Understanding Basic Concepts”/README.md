@@ -1,5 +1,6 @@
-“Day 1: Setting up your Development Environment and Understanding Basic Concepts”
-Introduction
+# “Day 1: Setting up your Development Environment and Understanding Basic Concepts”
+
+### Introduction
 Python is a powerful, versatile programming language that is widely used in data science and machine learning. It is known for its simplicity, readability, and ease of use, making it a great choice for beginners and experienced developers alike.
 
 One of the biggest reasons for Python’s popularity in the field of data science and machine learning is its vast ecosystem of libraries and frameworks. These libraries and frameworks provide powerful tools for data manipulation, visualization, and modeling, making it easier for data scientists to work with large and complex datasets. Some of the most popular libraries and frameworks include NumPy, Pandas, Matplotlib, and TensorFlow.
@@ -9,11 +10,11 @@ Before you can start writing Python code, you will need to set up your developme
 
 A tutorial video on setting up your Python development environment using Anaconda: https://www.youtube.com/watch?v=YYXdXT2l-Gg
 
-Basic Concepts
+## Basic Concepts
 Variables: Variables are used to store values in a program. They are like containers that can hold different types of data, such as numbers, strings, and lists. In Python, you can create a variable by assigning a value to it using the assignment operator (=).
 Data Types: Python has several built-in data types, including integers, floating-point numbers, strings, lists, and dictionaries. Each data type has its own set of properties and methods that you can use to work with the data.
 Operators: Python has several built-in operators for performing arithmetic operations or logical computation.
-Data Types:
+## Data Types:
 
 In Python, data types are used to define the type of data that a variable can hold. Python has several built-in data types, including integers, floating-point numbers, strings, lists, and dictionaries. Each data type has its own set of properties and methods that you can use to work with the data.
 
@@ -32,7 +33,7 @@ These are the basic data types in python, which will be used in any application 
 
 Please note that this list is not exhaustive and Python also allows you to create your own data types using classes and objects.
 
-Data Structures:
+## Data Structures:
 
 1.Lists: Lists are ordered collections of items. They can contain any type of data and are created using square brackets []. For example: my_list = [1, 2, 3].
 
@@ -55,11 +56,17 @@ Operators in Python are special symbols in Python that carry out arithmetic or l
 There are various types of operators in Python, including:
 
 Arithmetic Operators: These operators perform mathematical operations like addition, subtraction, multiplication and division. For example: x + y, x — y, x * y, x / y
+
 Comparison Operators: These operators compare two values and return a Boolean value based on the comparison. For example: x == y, x != y, x > y, x < y, x >= y, x <= y
+
 Logical Operators: These operators are used to combine multiple conditions and return a Boolean value based on the evaluation of the conditions. For example: x and y, x or y, not x
+
 Bitwise Operators: These operators perform bit by bit operations on integers. For example: x & y, x | y, x ^ y, ~x, x​1
+
 Assignment Operators: These operators are used to assign values to variables. For example: x = y, x += y, x -= y, x *= y, x /= y
+
 Membership Operators: These operators test whether a value is found in a sequence (such as a list, tuple, or string). For example: x in y, x not in y
+
 Identity Operators: These operators compare the memory locations of two objects. For example: x is y, x is not y
 Example :
 
