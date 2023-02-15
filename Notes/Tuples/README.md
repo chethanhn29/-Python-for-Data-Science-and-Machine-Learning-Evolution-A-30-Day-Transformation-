@@ -1,2 +1,0 @@
-
-## Tuples and Its methods
